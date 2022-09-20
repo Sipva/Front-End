@@ -1,0 +1,150 @@
+body{
+    background-color:white;
+    width: 100%;
+   
+}
+#container,
+#containera,
+#containerb{
+    border-radius: 50%;
+    height:50px;
+    width: 50px;
+}
+.box{
+    height: 69px;
+    width: 500px;
+    color: gray;
+    display: flex;
+    margin-left: 50px;
+    background-color: whitesmoke;
+    border-radius: 20px;
+}
+
+#box1, #box1a , #box1b{
+    display:flex;
+    margin-left: 50px;
+    margin-top: 100px;
+
+}
+#box2, #box2a, #box2b{
+    display:flex;
+    margin-left: 50px;
+    margin-top: 10px;
+    color: red;
+    border-radius: 50%;
+}
+main{
+    text-align: center;
+    margin-left: 600px;
+    
+}
+img{
+    margin: 0px;
+    border-radius: 10px;
+}
+#botoes, #botoesa, #botoesb{
+    height: 50px;
+    width: 150px;
+    display: flex;
+    margin-left: 50px;
+}
+#insta{
+    margin-left: 30px;
+    margin-top: 10px;
+    background-color: white;
+    
+}
+#likes, #likesa, #likesb{
+    margin-left: 70px;
+    margin-top: 0px;
+    background-color: white;
+    display: flex;
+}
+#nome_perfil1, #nome_perfil_1a,#nome_perfil_1b,
+#nome_perfil2, #nome_perfil_2a, #nome_perfil_2b{
+    margin-left: 68px;
+    margin-top: 0px;
+    background-color: white;
+    display: flex;
+}
+
+
+#comentariodopost,
+#comentariodoposta,
+#comentariodopostb{
+    text-align: left;
+    margin-left: 10px;
+    margin-top: 0px;
+    margin-bottom: 0%;
+    background-color: white;
+    color:rgb(64, 64, 64)
+
+    
+}
+
+#comentariodopost2,
+#comentariodopost2a,
+#comentariodopost2b{
+    text-align: left;
+    margin-left: 10px;
+    margin-top: 0px;
+    margin-bottom: 0%;
+    background-color: white;
+    color:rgb(64, 64, 64)
+
+    
+}
+
+#comentariodousuario{
+    text-align: left;
+    margin-left: 68px;
+    margin-top: 0px;
+    margin-bottom: 0%;
+    background-color: white;
+    color:rgb(64, 64, 64)
+}
+#datas, #datasa, #datasb{
+    text-align: left;
+    margin-left: 68px;
+    margin-top: 0px;
+    margin-bottom: 0%;
+    background-color: white;
+    color:rgb(64, 64, 64)
+}
+#cortraducao{
+    color: black;
+    background-color: black;
+}
+
+a{
+    width: 40px;
+    height: 30px;
+    color:gray;
+    background-color: whitesmoke;
+    display: flex;
+    margin-top: 27px;
+    margin-left: 178px;
+    color: blue;
+}
+
+.quadro_esquerda {
+    position:absolute;
+    left: 5%;
+    width: 15%;
+    height: 30%;
+    border-radius: 50%;
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.quadro_esquerda img {
+    
+    border-radius: 50%;
+    width: 100%;
+}
+
+.texto_perfil{
+    font-weight: bold;
+}
