@@ -1,0 +1,23 @@
+img{
+    text-align: center;
+}
+.borda{
+    border-bottom: solid  1px;
+    color: gray;
+    border-left: solid 15px gray;
+}
+a:hover{
+    color:yellow ;
+
+}
+.nome{
+    color:gray;
+}
+h1{
+    background-image: url(imagens/bandeira1.jpg);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+h4{
+    border-bottom: 1px dotted gray;
+}
